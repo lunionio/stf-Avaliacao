@@ -1,0 +1,16 @@
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Servico.deps.json
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Servico.runtimeconfig.json
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Servico.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Servico.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Servico.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Repositorio.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\bin\Debug\netcoreapp2.0\Avaliacao.Repositorio.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Servico\obj\Debug\netcoreapp2.0\Avaliacao.Servico.csproj.CopyComplete

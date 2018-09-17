@@ -1,0 +1,9 @@
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.deps.json
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\obj\Debug\netcoreapp2.0\Avaliacao.Dominio.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\obj\Debug\netcoreapp2.0\Avaliacao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\obj\Debug\netcoreapp2.0\Avaliacao.Dominio.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\obj\Debug\netcoreapp2.0\Avaliacao.Dominio.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\obj\Debug\netcoreapp2.0\Avaliacao.Dominio.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Dominio\obj\Debug\netcoreapp2.0\Avaliacao.Dominio.pdb

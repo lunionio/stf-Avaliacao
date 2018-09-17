@@ -1,0 +1,12 @@
+c:\users\felipe\source\repos\Avaliacao\Avaliacao.Repositorio\bin\Debug\netcoreapp2.0\Avaliacao.Repositorio.deps.json
+c:\users\felipe\source\repos\Avaliacao\Avaliacao.Repositorio\bin\Debug\netcoreapp2.0\Avaliacao.Repositorio.dll
+c:\users\felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.csprojAssemblyReference.cache
+c:\users\felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.csproj.CoreCompileInputs.cache
+c:\users\felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.AssemblyInfoInputs.cache
+c:\users\felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Repositorio\bin\Debug\netcoreapp2.0\Avaliacao.Repositorio.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Repositorio\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Repositorio\bin\Debug\netcoreapp2.0\Avaliacao.Dominio.pdb
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.csproj.CopyComplete
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.dll
+C:\Users\Felipe\source\repos\Avaliacao\Avaliacao.Repositorio\obj\Debug\netcoreapp2.0\Avaliacao.Repositorio.pdb
